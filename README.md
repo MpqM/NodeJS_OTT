@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=Kf4-rXis8qU&t=2s
 * ##### Prerequisites: npm, node, MongoDB Connection URL
 * ##### Installation & Execution
 ```bash
-git clone https://github.com/MpqM/MERN_OTT.git
+git clone https://github.com/MpqM/WebApp_OTT.git
 # backend
 cd server
 # Change the MONGO_CONNECTION_STRING value in the server/.env file with yours
